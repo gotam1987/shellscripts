@@ -15,8 +15,7 @@ fourth commit from debian
 
 eof();
 dof();
-zof();
-<<<<<<< HEAD
+zof()
 sos();
-=======
->>>>>>> 34cab0784898c9111fb1a28921b9cb554531692f
+
+
